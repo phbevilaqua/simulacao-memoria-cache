@@ -17,5 +17,4 @@ Este projeto implementa uma simulação simples de memória principal e cache, f
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/simulacao-memoria-cache.git
-   cd simulacao-memoria-cache
+   git clone git@github.com:phbevilaqua/simulacao-memoria-cache.git
