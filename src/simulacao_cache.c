@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 #define MP_BLOCKS 64
 #define BLOCK_SIZE 8
